@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <cmath>
-#include <CL/opencl.hpp>
+#include <CL/cl2.hpp>
 #include <chrono>
 #include <vector>
 #include <fstream>
